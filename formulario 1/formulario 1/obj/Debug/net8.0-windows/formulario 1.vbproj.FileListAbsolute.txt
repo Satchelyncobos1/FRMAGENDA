@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\formulario 1\formulario 1\bin\Debug\net8.0-windows\formulario 1.exe
+C:\Users\DELL\source\repos\formulario 1\formulario 1\bin\Debug\net8.0-windows\formulario 1.deps.json
+C:\Users\DELL\source\repos\formulario 1\formulario 1\bin\Debug\net8.0-windows\formulario 1.runtimeconfig.json
+C:\Users\DELL\source\repos\formulario 1\formulario 1\bin\Debug\net8.0-windows\formulario 1.dll
+C:\Users\DELL\source\repos\formulario 1\formulario 1\bin\Debug\net8.0-windows\formulario 1.pdb
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario_1.Form1.resources
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.AssemblyInfo.vb
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.dll
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\refint\formulario 1.dll
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.pdb
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\formulario 1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\formulario 1\formulario 1\obj\Debug\net8.0-windows\ref\formulario 1.dll
